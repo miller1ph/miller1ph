@@ -1,7 +1,7 @@
 # Hello! My name is John
 <a href="https://www.linkedin.com/in/john-miller-de-leon-58138a13/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an independent portfolio mannager responsible for overseeing and managing our family's wealth in order to achieve our financial goals and ensure long-term growth and capital preservation. My role encompasses a wide range of activities, including strategic planning, asset allocation, and performance monitoring.
+I am an independent portfolio mannager responsible for overseeing and managing our family's wealth to achieve our financial goals and ensure long-term growth and capital preservation. My role encompasses a wide range of activities, including strategic planning, asset allocation, and performance monitoring.
 
 ## Objective
 The objective is to grow our wealth while ensuring capital preservation and sufficient liquidity for emergencies during the whole duration of the investment horizon.
