@@ -7,17 +7,16 @@ I am an independent portfolio mannager responsible for overseeing and managing o
 The objective is to grow our wealth while ensuring capital preservation and sufficient liquidity for emergencies during the whole duration of the investment horizon.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Strategic Planning                              | |
+| Asset Selection & Allocation                    | |
+| Risk Management                                 | |
+| Performance Monitoring and Evaluation           | <a href="https://google.com">Detection Lab</a>|
+| Communication                                   | |
+| Financial Modeling                              | |
+| Strategic Adjustment                            | |
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
