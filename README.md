@@ -13,7 +13,7 @@ The objective is to grow our wealth while ensuring capital preservation and suff
 | Strategic Planning                              | |
 | Asset Selection & Allocation                    | |
 | Risk Management                                 | |
-| Performance Monitoring and Evaluation           | <a href="https://google.com">Detection Lab</a>|
+| Performance Monitoring and Evaluation           | <a href="https://google.com">Family Portfolio</a>|
 | Communication                                   | |
 | Financial Modeling                              | |
 | Strategic Adjustment                            | |
@@ -38,5 +38,5 @@ The objective is to grow our wealth while ensuring capital preservation and suff
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Family Portfolio
+
