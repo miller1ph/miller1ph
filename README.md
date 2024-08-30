@@ -17,8 +17,18 @@ The objective is to grow our wealth while ensuring capital preservation and suff
 | Communication                                   | |
 | Financial Modeling                              | |
 | Strategic Adjustment                            | |
+
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+    <img src="https://img.shields.io/badge/-Bloomberg%20News-1679A7?&style=for-the-badge&logo=Bloomberg&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Schwab%20thinkorswim-008083?&style=for-the-badge&logo=thinkorswim&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MarketWatch-208037?&style=for-the-badge&logo=MarketWatch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bankrate-0056A2?&style=for-the-badge&logo=Bankrate&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Morningstar-4B275F?&style=for-the-badge&logo=morningstar&logoColor=white" />
+
+
+    
 
 ### Network
 <div>
