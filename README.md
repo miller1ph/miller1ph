@@ -27,6 +27,7 @@ The objective is to grow our wealth while ensuring capital preservation and suff
     <img src="https://img.shields.io/badge/-MarketWatch-208037?&style=for-the-badge&logo=MarketWatch&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bankrate-0056A2?&style=for-the-badge&logo=Bankrate&logoColor=white" />
     <img src="https://img.shields.io/badge/-TreasuryDirect-4B275F?&style=for-the-badge&logo=treasury&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PersonalCapital.com-003366?&style=for-the-badge&logo=Personal-Capital&logoColor=white" />
 
 </div>
 
