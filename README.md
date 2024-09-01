@@ -13,7 +13,7 @@ The objective is to grow our wealth while ensuring capital preservation and suff
 | Strategic Planning                              | |
 | Asset Selection & Allocation                    | |
 | Risk Management                                 | |
-| Performance Monitoring and Evaluation           | <a href="https://google.com">Family Portfolio</a>|
+| Performance Monitoring and Evaluation           | <a href="https://github.com/miller1ph/My-Portfolio">My Portfolio</a>|
 | Communication                                   | |
 | Financial Modeling                              | |
 | Strategic Adjustment                            | |
