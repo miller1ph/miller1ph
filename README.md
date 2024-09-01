@@ -38,5 +38,5 @@ The objective is to grow our wealth while ensuring capital preservation and suff
 </div>
 
 ## Projects
-- <a href="https://github.com/miller1ph/My-Portfolio">My Portfolio</a>|
+- <a href="https://github.com/miller1ph/My-Portfolio">My Portfolio</a>
 
