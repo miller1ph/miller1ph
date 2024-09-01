@@ -4,7 +4,7 @@
 I am an independent portfolio mannager responsible for overseeing and managing our family's wealth to achieve our financial goals and ensure long-term growth and capital preservation. My role encompasses a wide range of activities, including strategic planning, asset allocation, and performance monitoring.
 
 ## Objective
-The objective is to grow our wealth while ensuring capital preservation and sufficient liquidity for emergencies during the whole duration of the investment horizon.
+The objective is to grow our wealth while ensuring capital preservation and sufficient liquidity for emergencies and regular expenses.
 
 ## Skills
 
